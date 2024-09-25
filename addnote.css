@@ -1,0 +1,20 @@
+.note2{
+    background-color: white;
+    height:350px;
+    width:250px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.a,.b,.c{
+    display: flex;
+    flex-direction: column;
+}
+.b input{
+    height:200px;
+    background-color:black;
+}
+.note2 input{
+    background-color: black;
+}

@@ -1,0 +1,21 @@
+.note2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#x{
+    position: relative;
+    top:-2px;
+}
+.icon{
+    display: flex;
+}
+#d1,#delet{
+    margin-top: 25px;
+}
+#d1{
+    margin-left: 10px;
+}
+#delet{
+    margin-top: 27px;
+    margin-left: 20px;
+}

@@ -1,0 +1,14 @@
+.bod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.listi h2{
+    margin-left: 170px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.listi h2:hover{
+    transform:scale(1.2,1.2);
+    text-decoration: underline;
+}

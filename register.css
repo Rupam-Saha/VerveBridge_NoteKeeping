@@ -1,0 +1,47 @@
+body{
+    background-color:wheat;
+    color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.regi2 input{
+    background-color: black;
+}
+.note b{
+    cursor: pointer;
+}
+.sayani{
+    margin-top: 10px;
+}
+.sayani button{
+    background-color: slategrey;
+    position: relative;
+    top:20px;
+}
+.pic img{
+    height:200px;
+    width:300px;
+    margin-top: 100px;
+}
+.middle{
+    display: flex;
+}
+.note p{
+    position: relative;
+    top:40px;
+}
+.regi2{
+    background-color: white;
+    height:410px;
+    width: 250px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
